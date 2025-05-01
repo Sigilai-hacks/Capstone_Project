@@ -120,8 +120,8 @@ pipeline = Pipeline(steps=[
 ### Setup
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/crop-recommendation-model.git
-   cd crop-recommendation-model
+   git clone https://github.com/yourusername/Capstone_Project.git
+   cd Capstone_Project.ipynb
    ```
 
 2. Install dependencies:
@@ -159,14 +159,6 @@ prediction = recommender.predict({
 
 print(f"Recommended crop: {prediction}")
 ```
-
-### Web Interface
-The repository includes a simple web interface that can be launched with:
-```
-python app.py
-```
-
-Then open your browser to `http://localhost:5000` to access the user interface.
 
 ## Model Performance
 
@@ -233,6 +225,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
-- Data was sourced from agricultural research institutes
-- Special thanks to all contributors and reviewers
+- Data was sourced from KAGGLE
 - Inspired by the need for sustainable and efficient agricultural practices
