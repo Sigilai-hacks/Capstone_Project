@@ -115,12 +115,11 @@ pipeline = Pipeline(steps=[
 - matplotlib
 - seaborn
 - lime (for model interpretability)
-- imbalanced-learn (for handling class imbalance)
 
 ### Setup
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/Capstone_Project.git
+   git clone https://github.com/Sigilai-hacks/Capstone_Project.git
    cd Capstone_Project.ipynb
    ```
 
